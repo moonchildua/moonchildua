@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dariya
+# 👋 Hi, I'm Dasha
 
 ### Senior DevOps / Site Reliability Engineer
 
@@ -28,7 +28,6 @@ Day-to-day that means:
 - Building observability with Prometheus, Grafana, Loki, CloudWatch
 - Automating operational work that should not require somebody to do the same thing twice
 - Giving developers AI-assisted workflows to create the infrastructure for their services in playground and dev environments without DevOps involvement
-
 
 
 ## 🛠️ What I've built
