@@ -63,15 +63,6 @@ Where I'm strongest: planning and building infrastructure, using current tooling
 **Platform:** Karpenter · Istio · Kyverno · AWS Backup  
 **Scripting:** Python · Bash
 
-## 📊 GitHub activity
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moonchildua&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moonchildua&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ## 💬 Get in touch
 
 Ping me about AWS, production Kubernetes, Terraform, GitOps, observability or database performance. Happy to compare notes with engineers running similar platforms.
